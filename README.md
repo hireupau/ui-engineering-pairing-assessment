@@ -1,6 +1,6 @@
 # UI Engineer Pairing Assessment
 
-To get a feel for how you build UI, we'd like to you approach a problem which demonstrate your understanding of design, HTML, CSS, accessibility and JavaScript.
+To get a feel for how you build UI, we'd like to you approach a problem which demonstrates your understanding of design, HTML, CSS, accessibility and JavaScript.
 
 Our short timeframe will probably not allow you to code as if it were production-ready, however, we'd like you to demonstrate the thought processes and implementation details required assuming you were building this for production.
 
