@@ -6,7 +6,7 @@ Our short timeframe will probably not allow you to code as if it were production
 
 While there are small-screen and wider-screen layout designs provided for the task, it's important to note that they are simply design suggestions. No colours or sizes will be provided, because part of being a great UI Engineer is your "feel" for UI design and system design as a whole. You're free to implement or suggest changes that you feel creates a better experience.
 
-To complete the tasks, you can choose to use either React or Vue. In the [react](/react) directory, you will find a basic project scaffolded with [Create React App](https://facebook.github.io/create-react-app/), and in the [vue](/vue) directory, you'll find a basic [Vue CLI](https://cli.vuejs.org/) scaffolded project. Both have Sass as a dependency, should you wish to use it.
+To complete the task, you can choose to use either React or Vue. We would encourage you to scaffold a new project in react [Create React App](https://facebook.github.io/create-react-app/) or vue [Vue CLI](https://cli.vuejs.org/) before the pairing to ensure you can start writing code straight away. Make sure you include any dependencies you intend to use such as Sass.
 
 ---
 
